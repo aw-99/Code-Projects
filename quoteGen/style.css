@@ -1,0 +1,21 @@
+body {
+    background-color: #121212;
+    color: #f0f8ff;
+    display: grid;
+    min-height: 5%;
+    margin: 20%;
+    place-items: center;
+    }
+
+h1 {
+    margin: 5%;
+}
+
+button {
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 5%;
+    margin: 5%;
+    cursor: grab;
+    }
+

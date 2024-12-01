@@ -1,0 +1,31 @@
+:root {
+    --background-color-light: #f0f8ff;
+    --text-color-light: #47484B;
+    --background-color-dark: #47484B;
+    --text-color-dark: #f0f8ff;
+  }
+
+body {
+    font-family: monospace;
+    background-color: var(--color-bg);
+    color: var(--color-fg);
+    display: grid;
+    min-height: 100vh;
+    place-items: center;
+    }
+ 
+button {
+    font-family: Monospace;
+    font-size: 2rem;
+    font-weight: bold;
+    border-radius: 2rem;
+    cursor: pointer;
+    color: var(--color-fg);
+    background-color: var(--color-bg);
+    }
+
+    .dark-mode {
+        background-color: var(--background-color-dark);
+        color: var(--text-color-dark);
+    }
+
