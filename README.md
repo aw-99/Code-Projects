@@ -6,3 +6,6 @@ Javascript
 
 Python
 -Password Generator allows the user to create password from the console, with choice of password length and the amount generated! 
+
+SQL
+- A Database for a library to use which allows them to record and update the books that are borrowed and returned etc.
