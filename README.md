@@ -1,4 +1,4 @@
-This is a collection of projects that I have worked on using varius languages!
+This is a collection of projects that I have worked on using various languages!
 
 Javascript
 - Darkmode allows a user to change their prefence on a website. Changing the background and font to a dark background color and a light font.
